@@ -1,3 +1,1 @@
-- 👋 Yooo, **GaboutDev** Disini
-- 🇮🇩 From Indonesia
-- 💻 Programming software joke pakai Visual Studio
+
